@@ -1,1 +1,1 @@
-# DBT_core_databricks_demo
+# dbt_core_databricks_demo
